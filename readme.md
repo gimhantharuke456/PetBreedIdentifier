@@ -46,10 +46,10 @@ This app leverages Firebase services to manage user authentication, data storage
 
 | Feature               | Screenshot                                                                                                                                                                                                                                           |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Feed Section          | ![Feed Section](https://firebasestorage.googleapis.com/v0/b/kavinda-f44d7.appspot.com/o/petbreed%2FSimulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-11-28%20at%2021.33.00.png?alt=media&token=df371d47-0027-4620-99c1-8dafb3dd4535)         |
-| Creating a Post       | ![Create Post](https://firebasestorage.googleapis.com/v0/b/kavinda-f44d7.appspot.com/o/petbreed%2FSimulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-11-28%20at%2021.33.04.png?alt=media&token=4930628b-46c5-44cb-a216-21e7e1add86a)          |
-| Identifying Dog Breed | ![Dog Breed Identifier](https://firebasestorage.googleapis.com/v0/b/kavinda-f44d7.appspot.com/o/petbreed%2FSimulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-11-28%20at%2021.33.31.png?alt=media&token=a9cd3d7d-fc28-4e75-8a62-a0c31495fd0a) |
-| Post View             | ![Post View](https://firebasestorage.googleapis.com/v0/b/kavinda-f44d7.appspot.com/o/petbreed%2FSimulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-11-28%20at%2021.34.11.png?alt=media&token=76e723af-eb10-4690-b5a8-44f3c2506e89)            |
+| Splash Screen         | ![Feed Section](https://firebasestorage.googleapis.com/v0/b/kavinda-f44d7.appspot.com/o/petbreed%2FSimulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-11-28%20at%2021.33.00.png?alt=media&token=df371d47-0027-4620-99c1-8dafb3dd4535)         |
+| Login View            | ![Create Post](https://firebasestorage.googleapis.com/v0/b/kavinda-f44d7.appspot.com/o/petbreed%2FSimulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-11-28%20at%2021.33.04.png?alt=media&token=4930628b-46c5-44cb-a216-21e7e1add86a)          |
+| Post View             | ![Dog Breed Identifier](https://firebasestorage.googleapis.com/v0/b/kavinda-f44d7.appspot.com/o/petbreed%2FSimulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-11-28%20at%2021.33.31.png?alt=media&token=a9cd3d7d-fc28-4e75-8a62-a0c31495fd0a) |
+| Identifying Dog Breed | ![Post View](https://firebasestorage.googleapis.com/v0/b/kavinda-f44d7.appspot.com/o/petbreed%2FSimulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-11-28%20at%2021.34.11.png?alt=media&token=76e723af-eb10-4690-b5a8-44f3c2506e89)            |
 
 ---
 
